@@ -1,5 +1,5 @@
 window.CARGO_DATA = {
- "generatedAt": "2026-11-10 10:23",
+ "generatedAt": "2026-11-11 19:57",
  "shipments": [
   {
    "title": "WK1019NEA",
@@ -722,7 +722,7 @@ window.CARGO_DATA = {
   {
    "title": "WK35",
    "scheduleName": "WK35",
-   "arrivalDate": "11/26(목)",
+   "arrivalDate": "12/3(목)",
    "packages": [
     "039046455",
     "039046456",
@@ -822,7 +822,7 @@ window.CARGO_DATA = {
   {
    "title": "WK36",
    "scheduleName": "WK36",
-   "arrivalDate": "11/26(목)",
+   "arrivalDate": "12/3(목)",
    "packages": [
     "176603088",
     "176603093",
